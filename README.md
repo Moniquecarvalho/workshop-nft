@@ -7,11 +7,10 @@ Desafio Frontend Mentor, onde criamos uma NFT.
 
    - Criar um NFT com a ajuda dos Gêmeos, onde eles iriam tirando as dúvidas dos alunos e nós iriamos fazendo por partes. Foi um desafio muito grande onde testei todas as minha habilidades, aprendei um pouco mais com as dicas que eles iriam passando. E este foi o resultado 😁  
   
-  <p align="center">
-   <img src"/src/images/to-readme/animacao.gif">
- </p>
- 
-- [Clique aqui]((http://127.0.0.1:5500/index.html)) para acessar a página.
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/96195106/199608008-ddad889e-1f0b-4b52-a377-f04ced5d7247.gif" width="500px"/>
+</div>
+
 - [Meu processo](#meu-processo)
   - Tecnologias utilizadas:
   - HTML
